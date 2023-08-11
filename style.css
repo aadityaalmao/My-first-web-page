@@ -1,0 +1,17 @@
+body { 
+    background-color: azure; 
+    text-align: center;
+
+}
+h1 { 
+    text-align: center;
+    border-color: black;
+    border-style: double;
+ }
+h2  { font-style: normal
+    ;}
+
+#heading { 
+    border-style: double;
+    border-color: black;
+}
